@@ -259,3 +259,10 @@ footer {
         padding: 35px 20px 50px;
     }
 }
+
+.b1{
+    background-color: #FF6B35;
+    text-align: center;
+    padding: 20px 0px;
+   display: none;
+}
